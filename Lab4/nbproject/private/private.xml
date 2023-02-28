@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/controller/ListServlet.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/model/SanPham.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/web/list.jsp</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/web/delete.jsp</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/controller/NewServlet.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/model/DonHang.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/controller/ChangeServlet.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/web/index.html</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/model/DonHangChiTiet.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/src/java/dal/DonHangDAO.java</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/web/change.jsp</file>
+            <file>file:/C:/Users/GangsterCao/Documents/NetBeansProjects/Lab4/web/new.jsp</file>
+        </group>
+    </open-files>
+</project-private>
